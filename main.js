@@ -101,5 +101,5 @@ player.appear()
 
 /**********************************************/
 
-alert('test2')
+alert('dasdasdadsd')
 
